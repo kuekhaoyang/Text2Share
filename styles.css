@@ -1,0 +1,17 @@
+#extension-share-button {
+  position: fixed;
+  z-index: 9999;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: background-color 0.3s;
+}
+
+#extension-share-button:hover {
+  background-color: #45a049;
+}
